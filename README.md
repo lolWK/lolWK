@@ -6,7 +6,8 @@
 <a href="mailto:mwk0725@gmail.com">
   <img 
      src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=EA4335&link=mailto:mwk0725@gmail.com"
-     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     style="height : auto; margin-left : 10px; margin-right : 10px;"
+   />
 </a>
   
 𝙄❤𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
