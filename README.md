@@ -2,7 +2,7 @@
 ===
 [![GitHub Badge](https://img.shields.io/badge/-@lolWK-181717?logo=GitHub&logoColor=white&link=https://github.com/lolWK)](https://github.com/lolWK)
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black&link=#)](#)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff4640?logo=ReverbNation&logoColor=E8BFB1&link=#)](#)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-EA4335?logo=ReverbNation&logoColor=white&link=#)](#)
 <a href="mailto:mwk0725@gmail.com">
   <img 
      src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=EA4335&link=mailto:mwk0725@gmail.com"
