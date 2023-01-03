@@ -2,7 +2,9 @@
 ===
 [![GitHub Badge](https://img.shields.io/badge/-@lolWK-181717?logo=GitHub&logoColor=white&link=https://github.com/lolWK)](https://github.com/lolWK)
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black&link=#)](#)
+<!--
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-EA4335?logo=ReverbNation&logoColor=white&link=#)](#)
+-->
 <a href="mailto:mwk0725@gmail.com">
   <img 
      src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=EA4335&link=mailto:mwk0725@gmail.com"
@@ -19,7 +21,7 @@
 ##### :writing_hand: "공사중"
 
 <br />
-
+<!--
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
@@ -41,7 +43,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=%23ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=%23ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=%23ffffff)
-
+-->
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
