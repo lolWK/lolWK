@@ -2,16 +2,16 @@
 ===
 [![GitHub Badge](https://img.shields.io/badge/-@lolWK-181717?logo=GitHub&logoColor=white&link=https://github.com/lolWK)](https://github.com/lolWK)
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black&link=#)](#)
-<!--
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-EA4335?logo=ReverbNation&logoColor=white&link=#)](#)
--->
 <a href="mailto:mwk0725@gmail.com">
   <img 
      src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=EA4335&link=mailto:mwk0725@gmail.com"
      style="height : auto; margin-left : 10px; margin-right : 10px;"
    />
 </a>
-  
+
+<!--
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-EA4335?logo=ReverbNation&logoColor=white&link=#)](#)
+-->
 𝙄❤𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 
 ##### :computer: "공사중"
