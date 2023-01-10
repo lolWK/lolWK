@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&pause=1000&color=E8BFB1&background=FEE9D200&vCenter=true&width=600&height=35&lines=Hi+!+I'm+wonkyung+Min;%23GrowTogether+%23GoodCommunicator)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&pause=1000&color=E8BFB1&background=FEE9D200&vCenter=true&width=600&height=35&lines=Hi+!+I'm+wonkyung+Min;%23GrowTogether+%23GoodCommunicator)](https://git.io/typing-svg)
 ===
 [![GitHub Badge](https://img.shields.io/badge/-@lolWK-181717?logo=GitHub&logoColor=white&link=https://github.com/lolWK)](https://github.com/lolWK)
 [![Notion Badge](https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black&link=#)](#)
@@ -8,7 +8,7 @@
      style="height : auto; margin-left : 10px; margin-right : 10px;"
    />
 </a>
-
+-->
 <!--
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-EA4335?logo=ReverbNation&logoColor=white&link=#)](#)
 -->
