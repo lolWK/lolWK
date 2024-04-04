@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white"/>
 
 ![React+Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat-square&logo=React+Query&logoColor=white)
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white" />
+<img src="https://img.shields.io/badge/Jotai-000000?style=flat-square&logo=jotai&logoColor=white" />
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
