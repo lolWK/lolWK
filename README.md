@@ -14,14 +14,11 @@
 
 ##### 😄 스몰토크도 좋아하고, 다양한 취미 생활을 즐깁니다
 
-<br />
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -30,9 +27,7 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white"/>
 
-
 ![React+Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat-square&logo=React+Query&logoColor=white)
-
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
@@ -46,26 +41,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=%23ffffff)
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
 
-<!--
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolWK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Gatsby](https://img.shields.io/badge/-Gatsby-#663399?style=flat-square&logo=Gatsby&logoColor=white)
-
-![Redux-Saga](https://img.shields.io/badge/-ReduxSaga-999999?style=flat-square&logo=Redux-Saga&logoColor=white)
-![mariaDB](https://img.shields.io/badge/-mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)
-![mongoDB](https://img.shields.io/badge/-mongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white)
-![express](https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white)
-![django](https://img.shields.io/badge/-django-092E20?style=flat-square&logo=django&logoColor=white)
-**lolWK/lolWK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
