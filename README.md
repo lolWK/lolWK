@@ -12,8 +12,6 @@
 
 ##### :computer: 안녕하세요! 프론트엔드 개발을 위주로 하고 있습니다
 
-##### 😄 스몰토크도 좋아하고, 다양한 취미 생활을 즐깁니다
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
