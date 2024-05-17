@@ -10,7 +10,7 @@
 
 
 
-##### :computer: 안녕하세요! 프론트엔드 개발을 위주로 하고 있습니다
+##### :computer: 안녕하세요! 프론트엔드 개발자 입니당 😊
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
