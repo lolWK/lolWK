@@ -1,5 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&pause=1000&color=E8BFB1&background=FEE9D200&vCenter=true&width=600&height=35&lines=Hi+!+I'm+wonkyung+Min;%23GrowTogether+%23GoodCommunicator)](https://git.io/typing-svg)
-===
+
+
+##### :computer: 안녕하세요! 프론트엔드 개발자 입니당 😊
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/lolWK?pet-id=597671337957028112"
+    width="600"
+    height="120"
+  />
+</a>
+
 [![GitHub Badge](https://img.shields.io/badge/-@lolWK-181717?logo=GitHub&logoColor=white&link=https://github.com/lolWK)](https://github.com/lolWK)
 <a href="mailto:mwk0725@gmail.com">
   <img 
@@ -10,7 +20,7 @@
 
 
 
-##### :computer: 안녕하세요! 프론트엔드 개발자 입니당 😊
+  
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
