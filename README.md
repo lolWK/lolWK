@@ -3,11 +3,11 @@
 ##### :computer: 안녕하세요! 프론트엔드 개발자 입니당 😊
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/lolWK?pet-id=597671337957028112"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/lolWK"
+  width="600"
+  height="300"
+/>
 </a>
 
 [![GitHub Badge](https://img.shields.io/badge/-@lolWK-181717?logo=GitHub&logoColor=white&link=https://github.com/lolWK)](https://github.com/lolWK)
